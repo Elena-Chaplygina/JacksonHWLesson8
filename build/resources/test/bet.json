@@ -1,0 +1,21 @@
+{
+  "id": 171666,
+  "status": "accepted",
+  "inBonusForDeposit": false,
+  "Amount": 1000,
+  "name": ["Johnson, Spencer Henry", "Heazlett, Sam"],
+  "marketName": {
+    "en": "1 innings - Warner, David total",
+    "kz": "1 innings - undefined total",
+    "ru": "1 иннингс - Warner, David тотал"
+  },
+
+  "outcomes": [
+    {
+      "id": 335012,
+      "betId": 171666,
+      "live": false,
+      "rate": 1.85
+    }]
+}
+
